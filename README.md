@@ -10,6 +10,7 @@ We introduce new two datasets: KorWikiTabular contains tables with their descrip
 ### KorWikiTabular
 #### Example
 |Field|Content|설명|
+|---|---|---|
 |T | N서울타워| |
 |U | https://ko.wikipedia.org/w/index.php?title=N서울타워| |
 |Description | N서울타워의 층수는 P0, P1, P2, EZ, T1, T2, T3, T5로 총 8개 층으로 되어있다. P는 플라자의 약자이며 출입구와 약간의 상가로 구성되어있다. EZ는 익스프레스 존의 약자이며 흰색 기둥부분을 가리킨다. T는 타워의 약자이며 전망대와 스낵코너, 그리고 식당으로 구성되어 있다. 지하 1층에서 지상 5층까지는 서울타워 플라자의 시설이 있고 5층부터 타워 1층에서 타워 5층까지는 N서울타워의 시설이 있다. 남산 케이블카도 유명하다./가 있는 구역은 일반인의 출입이 금지된 구역이다.| |
