@@ -13,7 +13,8 @@ Existing question answering systems mainly focus on dealing with text data. Howe
 ## Citation
 Please cite our paper if you use KorWikiTabular or KorWikiTQ dataset for research, :
 
-``` @article{jun2022korean,
+``` 
+@article{jun2022korean,
   title={Korean-Specific Dataset for Table Question Answering},
   author={Jun, Changwook and Choi, Jooyoung and Sim, Myoseop and Kim, Hyun and Jang, Hansol and Min, Kyungkoo},
   journal={arXiv preprint arXiv:2201.06223},
