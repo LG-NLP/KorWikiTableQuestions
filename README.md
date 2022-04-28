@@ -4,10 +4,13 @@ This is the official repo for [Korean-Specific Dataset for Table Question Answer
 ## Abstract
 Existing question answering systems mainly focus on dealing with text data. However, much of the data produced daily is stored in the form of tables that can be found in documents and relational databases, or on the web. To solve the task of question answering over tables, there exist many datasets for table question answering written in English, but few Korean datasets. In this paper, we demonstrate how we construct Korean-specific datasets for table question answering: Korean tabular dataset is a collection of 1.4M tables with corresponding descriptions for unsupervised pre-training language models. Korean table question answering corpus consists of 70k pairs of questions and answers created by crowd-sourced workers. Subsequently, we then build a pre-trained language model based on Transformer and fine-tune the model for table question answering with these datasets. We then report the evaluation results of our model. We make our datasets publicly available via our GitHub repository and hope that those datasets will help further studies for question answering over tables, and for the transformation of table formats.
 
-
 ## Datasets
-- [KorWikiTabular]
-- [KorWikiTQ]
+We introduce new two datasets: KorWikiTabular contains tables with their descriptions extracted from Korean Wikipedia articles, and KorWikiTQ consists of about 70k pairs of questions and answers over tables, generated according to question difficulty by paid crowdsourced workers.
+
+### KorWikiTabular
+
+### KorWikiTQ
+
 
 
 ## Citation
