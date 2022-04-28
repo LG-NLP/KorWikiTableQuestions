@@ -19,6 +19,7 @@ Please cite our paper if you use KorWikiTabular or KorWikiTQ dataset for researc
   journal={arXiv preprint arXiv:2201.06223},
   year={2022}
 }
+```
 
 ## License
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
