@@ -30,7 +30,7 @@ We introduce new two datasets: KorWikiTabular contains tables with their descrip
 |U | https://ko.wikipedia.org/w/index.php?title=축구_팀_코리아| Url|
 |Description | | Description about table|
 |QAS | "qid": "22638_1", <br> "question": "2010년 8월 11일 대한민국 축구 국가대표팀 은퇴식을 거행한 선수는 누구인가요?",<br>"answer": "이운재" |question-answering set |
-|TBL | [["거행일","이름","포지션","등번호","경기","활동 기간","장소"],<br>["2002년 11월 20일","황선홍","공격수","18","103","1988–2002","서울월드컵경기장"],<br>["2002년 11월 20일","홍명보","수비수","20","136","1990–2002","서울월드컵경기장"],<br>["2010년 8월 11일","이운재","골키퍼","1","133","1994–2010","수원월드컵경기장"]<br>...]| Flattened table of 2D list|
+|TBL | [["거행일","이름","포지션","등번호","경기","활동 기간","장소"],<br>["2002년 11월 20일","황선홍","공격수","18","103","1988–2002","서울월드컵경기장"],<br>["2002년 11월 20일","홍명보","수비수","20","136","1990–2002","서울월드컵경기장"],<br>["2010년&nbsp8월 11일","이운재","골키퍼","1","133","1994–2010","수원월드컵경기장"],<br>...]| Flattened table of 2D list|
 
 ## Citation
 Please cite our paper if you use KorWikiTabular or KorWikiTQ dataset for research :
