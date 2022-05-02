@@ -24,7 +24,13 @@ We introduce new two datasets: KorWikiTabular contains tables with their descrip
 |Example counts| 69,992|58,221 | 11,771|
 
 #### Example
-Will be updated soon
+|Field|Content|Note|
+|---|---|---|
+|T | 축구 팀 코리아 은퇴식   2002년 11월부터 70경기 이상 대한민국 축구 국가대표팀 경기를 치룬 선수들에게 은퇴식을 거행하고 있다. 박지성은 2014년 7월 K리그 올스타전에서 은퇴경기를 했다.황선홍은 폴란드전 인터뷰에서 이번경기를 마지막 경기로 삼겠다라고 발켰다.이후 홍명보와 은퇴식을 했다.| Title|
+|U | https://ko.wikipedia.org/w/index.php?title=축구_팀_코리아| Url|
+|Description | | Description about table|
+|QAS | "qid": "22638_1", <br> "question": "2010년 8월 11일 대한민국 축구 국가대표팀 은퇴식을 거행한 선수는 누구인가요?",<br>"answer": "이운재" |question-answering set |
+|TBL | [["거행일","이름","포지션","등번호","경기","활동 기간","장소"],<br>["2002년 11월 20일","황선홍","공격수","18","103","1988–2002","서울월드컵경기장"],<br>["2002년 11월 20일","홍명보","수비수","20","136","1990–2002","서울월드컵경기장"],<br>["2010년 8월 11일","이운재","골키퍼","1","133","1994–2010","수원월드컵경기장"]<br>...]| Flattened table of 2D list|
 
 ## Citation
 Please cite our paper if you use KorWikiTabular or KorWikiTQ dataset for research :
