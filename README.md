@@ -18,6 +18,11 @@ We introduce new two datasets: KorWikiTabular contains tables with their descrip
 |TBL | [["층수", "시설", "비고"], <br>["타워 7층", "엔그릴/기계실", "양식당 '엔그릴'이며 이곳에서는 개성과 인천의 관측도 가능하다..."],<br> ["타워 6층", "N칼국수,전망대", "... 휴전선까지 관측 가능하다"],<br> ["타워 5층", "전망대, N기프트, N포토, 위니비니", "디지털 전망대와 상행 엘리베이터가 있다."],<br> ["타워 4층", "전망대, N포토 스튜디오, 하늘 화장실, 투썸커피", "아날로그 전망대와 하행 엘리베이터가 있다."],<br> ["타워 3층", "한쿡", "이곳에서는 서울 시내까지만 보인다."],<br> ["타워 2층", "루프테라스, 더 플레이스 다이닝", "루프테라스, 더 플레이스 다이닝이 있다."],<br>...]| Flattened table of 2D list|
 
 ### KorWikiTQ
+#### Dataset Overview
+||Total|Train|Dev|
+|---|---|---|---|
+|Example counts| 69,992|58,221 | 11,771|
+
 #### Example
 Will be updated soon
 
