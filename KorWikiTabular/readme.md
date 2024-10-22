@@ -2,4 +2,4 @@
 This dataset is used for pre-training a language model for table question answering. 
 
 ### Dataset Download
-- [KorWikiTabular](https://storage.googleapis.com/lg_opensource/KorWikiTabular/KorWikiTabular.json) 
+- [KorWikiTabular](https://drive.google.com/file/d/1kc6kjwBgGzQS3ljgyh8xBVWT23CLNHYe/view?usp=drive_link) 
